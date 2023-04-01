@@ -3,8 +3,8 @@
 (./qr-code.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://home/gabriel/Documents/project/index.html\)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://home/gabriel/Documents/project/index.html\
+- Live Site URL:  https://gabriel9009.github.io/project.github.io/
 
 ### Built with
 

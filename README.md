@@ -1,0 +1,19 @@
+
+
+(./qr-code.png)
+### Links
+
+- Solution URL: [Add solution URL here](https://home/gabriel/Documents/project/index.html\)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+### Built with
+
+- Semantic HTML5 markup(div, img)
+- CSS custom properties(border-radius, margin, padding)
+
+## Author
+
+- Website - [Gabriel Moses]
+- Frontend Mentor - [@Gabriel9009]
+
+
